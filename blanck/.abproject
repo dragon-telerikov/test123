@@ -1,0 +1,37 @@
+{
+  "ProjectName": "blanck",
+  "ProjectGuid": "0e123bc1-fb10-49df-acc2-9c8d724c5b65",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.blanck",
+  "DisplayName": "blanck",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{6cb6ac9d-2d0c-4152-812f-07a6379afe3d}",
+  "WP8ProductID": "{321beec7-cce8-4522-9550-3d45c82483ba}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
